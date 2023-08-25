@@ -1,6 +1,8 @@
 # HansMac157.github.io
-My personal website
+Sample webGIS
 
 ## Education
 - BSGE
 - Dip LS
+## Work
+- Geospatial Analyst 
